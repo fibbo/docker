@@ -1,3 +1,3 @@
-FROM ubuntu:latest
+FROM gcc:latest
 
 CMD ["/usr/bin/bash"]
