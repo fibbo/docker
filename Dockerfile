@@ -1,3 +1,3 @@
 FROM gcc:latest
 
-CMD ["/usr/bin/bash"]
+CMD ["/bin/bash"]
